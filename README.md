@@ -14,6 +14,9 @@ The goal of this repository is to demonstrate practical SQL skills used in data 
 
 This repository includes SQL scripts demonstrating:
 
+- Data Cleaning
+- Data Exploration
+- Data Analysis
 - Complex JOIN operations
 - Window Functions
 - Ranking and Partitioning
