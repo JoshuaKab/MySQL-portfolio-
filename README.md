@@ -28,6 +28,6 @@ This repository includes SQL scripts demonstrating:
 
 #### 📫 Contact
 
-If you'd like to discuss data analytics, SQL, or potential opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or explore my other projects.
+If you'd like to discuss data analytics, SQL, or potential opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-kabwanga) or explore my other projects.
 
 Thank you for visiting my portfolio!
